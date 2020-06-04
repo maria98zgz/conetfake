@@ -1,0 +1,12 @@
+				@font-face {
+					font-family: 'gadugi';
+					src: url('/wp-content/uploads/useanyfont/180411063802Gadugi.woff') format('woff');
+					font-display: auto;
+				}
+
+				.gadugi{font-family: 'gadugi' !important;}
+
+						p{
+					font-family: 'gadugi' !important;
+				}
+		

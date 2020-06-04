@@ -1,0 +1,27 @@
+@font-face {
+ font-family: 'FontAwesome';
+  src: url('http://www.tuperrocomounrey.es/wp-content/uploads/cornerstone_icons_files/fontello-014f3e6a.zip/fontello-014f3e6a/font/conet1.eot?783710601');
+  src: url('http://www.tuperrocomounrey.es/wp-content/uploads/cornerstone_icons_files/fontello-014f3e6a.zip/fontello-014f3e6a/font/conet1.eot?783710601#iefix') format('embedded-opentype'),
+       url('http://www.tuperrocomounrey.es/wp-content/uploads/cornerstone_icons_files/fontello-014f3e6a.zip/fontello-014f3e6a/font/conet1.woff2?783710601') format('woff2'),
+       url('http://www.tuperrocomounrey.es/wp-content/uploads/cornerstone_icons_files/fontello-014f3e6a.zip/fontello-014f3e6a/font/conet1.woff?783710601') format('woff'),
+       url('http://www.tuperrocomounrey.es/wp-content/uploads/cornerstone_icons_files/fontello-014f3e6a.zip/fontello-014f3e6a/font/conet1.ttf?783710601') format('truetype'),
+       url('http://www.tuperrocomounrey.es/wp-content/uploads/cornerstone_icons_files/fontello-014f3e6a.zip/fontello-014f3e6a/font/conet1.svg?783710601#samplefont') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.x-icon-conet1-n-salud:before { content: '\e800'; }
+.cs-fa-conet1-n-salud:before { content: '\e800'; }
+.x-icon-conet1-n-online:before { content: '\e801'; }
+.cs-fa-conet1-n-online:before { content: '\e801'; }
+.x-icon-conet1-n-monedas:before { content: '\e802'; }
+.cs-fa-conet1-n-monedas:before { content: '\e802'; }
+.x-icon-conet1-n-lupa:before { content: '\e803'; }
+.cs-fa-conet1-n-lupa:before { content: '\e803'; }
+.x-icon-conet1-n-centro-especializado:before { content: '\e804'; }
+.cs-fa-conet1-n-centro-especializado:before { content: '\e804'; }
+.x-icon-conet1-n-carne-de-socio:before { content: '\e805'; }
+.cs-fa-conet1-n-carne-de-socio:before { content: '\e805'; }
+.x-icon-conet1-n-ahorro:before { content: '\e806'; }
+.cs-fa-conet1-n-ahorro:before { content: '\e806'; }
+
+
